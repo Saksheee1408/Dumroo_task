@@ -1,0 +1,8 @@
+[
+    
+  { "admin_id": "A001", "name": "Admin Smith", "assigned_grade": 8, "assigned_class": "A", "region": "North" },
+  { "admin_id": "A002", "name": "Ananya Rao", "assigned_grade": 9, "assigned_class": "B", "region": "South" },
+  { "admin_id": "A003", "name": "Ravi Patel", "assigned_grade": 10, "assigned_class": "C", "region": "West" },
+  { "admin_id": "A004", "name": "Neelam Sinha", "assigned_grade": 7, "assigned_class": "A", "region": "East" },
+  { "admin_id": "A005", "name": "Vikram Sharma", "assigned_grade": 8, "assigned_class": "C", "region": "Central" }
+]

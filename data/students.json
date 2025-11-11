@@ -1,0 +1,21 @@
+[
+  { "student_name": "Aarav Sharma", "grade": 8, "class": "A", "homework_status": "submitted", "quiz_score": 88, "date": "2024-11-10", "region": "North" },
+  { "student_name": "Diya Patel", "grade": 8, "class": "A", "homework_status": "pending", "quiz_score": 72, "date": "2024-11-08", "region": "North" },
+  { "student_name": "Rohit Nair", "grade": 8, "class": "A", "homework_status": "not_submitted", "quiz_score": 64, "date": "2024-11-06", "region": "North" },
+
+  { "student_name": "Ananya Iyer", "grade": 9, "class": "B", "homework_status": "submitted", "quiz_score": 90, "date": "2024-11-10", "region": "South" },
+  { "student_name": "Rohan Mehta", "grade": 9, "class": "B", "homework_status": "pending", "quiz_score": 67, "date": "2024-11-09", "region": "South" },
+  { "student_name": "Harshita Rao", "grade": 9, "class": "B", "homework_status": "not_submitted", "quiz_score": 82, "date": "2024-11-07", "region": "South" },
+
+  { "student_name": "Ravi Kumar", "grade": 10, "class": "C", "homework_status": "submitted", "quiz_score": 94, "date": "2024-11-10", "region": "West" },
+  { "student_name": "Sneha Patel", "grade": 10, "class": "C", "homework_status": "pending", "quiz_score": 77, "date": "2024-11-08", "region": "West" },
+  { "student_name": "Mitesh Patel", "grade": 10, "class": "C", "homework_status": "not_submitted", "quiz_score": 69, "date": "2024-11-06", "region": "West" },
+
+  { "student_name": "Neha Sinha", "grade": 7, "class": "A", "homework_status": "submitted", "quiz_score": 83, "date": "2024-11-10", "region": "East" },
+  { "student_name": "Divya Sinha", "grade": 7, "class": "A", "homework_status": "pending", "quiz_score": 78, "date": "2024-11-09", "region": "East" },
+  { "student_name": "Aman Tiwari", "grade": 7, "class": "A", "homework_status": "not_submitted", "quiz_score": 61, "date": "2024-11-07", "region": "East" },
+
+  { "student_name": "Krishna Singh", "grade": 8, "class": "C", "homework_status": "submitted", "quiz_score": 91, "date": "2024-11-10", "region": "Central" },
+  { "student_name": "Ritika Jain", "grade": 8, "class": "C", "homework_status": "pending", "quiz_score": 80, "date": "2024-11-08", "region": "Central" },
+  { "student_name": "Vivek Sharma", "grade": 8, "class": "C", "homework_status": "not_submitted", "quiz_score": 73, "date": "2024-11-06", "region": "Central" }
+]
